@@ -1,4 +1,5 @@
 # Mini-OS Simulator 🚀
+<img width="720" height="913" alt="cpu_sch_fcfs" src="https://github.com/user-attachments/assets/bd93814c-c65f-4c52-9819-ff71583c1e9e" />
 
 Mini-OS is a lightweight, modular operating system simulator developed in Python. It provides a terminal-based environment to visualize and analyze CPU scheduling algorithms and resource management.
 
